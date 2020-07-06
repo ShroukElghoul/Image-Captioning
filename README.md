@@ -11,6 +11,11 @@ The dataset used for training is the Microsoft Common Objects in COntext (MS COC
 The project is structured as a series of Jupyter notebooks that are designed to be completed in sequential order:
 
 0-Dataset.ipynb
+
 1-Preliminaries.ipynb
+
 2-Training.ipynb
+
 3-Inference.ipynb
+
+
