@@ -6,3 +6,11 @@ It is a compination of a deep NN for features extraction, and a RNN for Captions
 ![image captioning](https://user-images.githubusercontent.com/34423639/86612470-77022500-bfb0-11ea-84f3-00fc85682a19.PNG)
 
 The dataset used for training is the Microsoft Common Objects in COntext (MS COCO)
+
+## Project Structure
+The project is structured as a series of Jupyter notebooks that are designed to be completed in sequential order:
+
+0_Dataset.ipynb
+1_Preliminaries.ipynb
+2_Training.ipynb
+3_Inference.ipynb
