@@ -18,6 +18,13 @@ The project is structured as a series of Jupyter notebooks that are designed to 
 
 3-Inference.ipynb
 
+## Local Environment Installation
+
+$ git clone https://github.com/ShroukElghoul/Image-Captioning.git
+
+$ pip3 install -r requirements.txt
+
+
 ## Examples (images with predicted captions)
 
 
