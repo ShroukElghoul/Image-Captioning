@@ -18,4 +18,5 @@ The project is structured as a series of Jupyter notebooks that are designed to 
 
 3-Inference.ipynb
 
-
+## Examples (images with predicted captions)
+1)
